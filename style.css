@@ -42,7 +42,7 @@ li:hover{
     color: palevioletred;
 }
 .banner{
-    background-image: url("/images/Group\ 14.png");
+   background: url("images/Group\ 14.png");
     background-repeat: no-repeat;
     padding: 60px;
 }
@@ -110,10 +110,11 @@ li:hover{
 
 
     nav ,
-    ul
+    ul ,
+    main 
     {
         flex-direction: column;
     }
-
+  
     
 }
