@@ -41,10 +41,20 @@ li{
 li:hover{
     color: palevioletred;
 }
+.banner-container{
+    display: flex;
+    background: #FFF;
+   
+}
 .banner{
+   
+   
    background: url("images/Group\ 14.png");
     background-repeat: no-repeat;
-    padding: 60px;
+    padding: 100px;
+    width: 981px;
+    height: 600px;
+
 }
 .banner-title{
     color: #0b0223;
@@ -70,8 +80,9 @@ li:hover{
     font-weight: 500;
     margin-left: 210px;
 }
-.banner-image{
-   
+.banner-photo{
+    margin-left: 250px;
+    
   
 
   
@@ -96,8 +107,14 @@ li:hover{
      margin-left: 30px;
 
 }
-
-
+.main-container{
+    display: flex;
+    justify-content: center;
+}
+.main-header{
+    color: #0b0223;
+    font-size: 48px;
+}
 
 
 
@@ -111,7 +128,7 @@ li:hover{
 
     nav ,
     ul ,
-    main 
+    .banner-container, 
     {
         flex-direction: column;
     }
