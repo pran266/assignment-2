@@ -174,20 +174,21 @@ li:hover{
     line-height: 30px; 
 }
 .main-part-image{
-    
+    position: relative;
     margin-left: 260px;
     margin-top: 150px;
 }
 .game-image{
-    width: 500px;
-    height: 450px;
-    border-radius: 8px;
+    width: 710px;
+    height: 650px;
+   
 }
 .game-image2{
-    width: 318px;
-    height: 365px;
-    border-radius: 8px;
-    border: 10px solid #FFF;
+    position: relative;
+    width: 300px;
+    right: 150px;
+    padding-top: 100px;
+ 
 }
 
 
