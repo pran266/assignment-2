@@ -82,10 +82,11 @@ li:hover{
 }
 .banner-photo{
     margin-left: 250px;
-    
   
+}
+.button{
+    border-radius: 8px;
 
-  
 }
 .btn{
     color: #FFF;
@@ -190,20 +191,66 @@ li:hover{
     padding-top: 100px;
  
 }
-
-
-
-
-
-@media  screen and (max-width:576px) {
-
-
-    nav ,
-    ul ,
-    .banner-container, 
-    {
-        flex-direction: column;
-    }
-  
+.sponsor-images{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    margin: auto;
     
 }
+
+.sponsor-container{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+.sponsor-photo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    color: #0B0223;
+    background: #FFF;
+    border-radius: 8px;
+}
+.sponsor-photo2{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    color: #0B0223;
+    background: #FFF;
+    border-radius: 8px;
+}
+.sponsor-photo3{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    color: #0B0223;
+    background: #FFF;
+    border-radius: 8px;
+
+}
+.sponsor-photo4{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    color: #0B0223;
+    background: #FFF;
+    border-radius: 8px;
+
+}
+.sponsor-photo5{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    color: #0B0223;
+    background: #FFF;
+    border-radius: 8px;
+
+}
+
+
