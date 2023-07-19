@@ -252,5 +252,47 @@ li:hover{
     border-radius: 8px;
 
 }
+.sponsor-container2{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+.container-image{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    color: #0B0223;
+    background: #FFF;
+    border-radius: 8px;
+
+}
+.container-image2{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    color: #0B0223;
+    background: #FFF;
+    border-radius: 8px;
+}
+.container-image3{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    color: #0B0223;
+    background: #FFF;
+    border-radius: 8px;
+}
+.container-image4{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px;
+    color: #0B0223;
+    background: #FFF;
+    border-radius: 8px;
+}
 
 
